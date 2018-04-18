@@ -1,0 +1,126 @@
+/*header*/
+header .navbar-header{
+    background: #000;
+}
+header .navbar-nav a{
+    /*background: #000;*/
+    /*color: #fff;*/
+    text-align: center;
+}
+/*aside*/
+aside .lunbo .swiper-container img{
+    width: 10rem;
+    height: 10rem;
+}
+
+/*article*/
+article{
+    width: 10rem;
+    height: 1.7rem;
+    background: #eee;
+}
+article .article_top{
+    font-size: 15px;
+    line-height: 1.7rem;
+    text-align: center;
+}
+article .article_bg .col-md-3 .thumbnail .caption{
+    width: 5rem;
+    height: 4rem;
+    margin-left: 4.5rem;
+}
+
+article .article_center{
+    width: 10rem;
+    height: 1.7rem;
+    background: #eee;
+   font-size: 15px;
+    line-height: 1.7rem;
+    text-align: center;
+}
+article .all .jingpin1{
+    width: 5rem;
+    border-right: 1px solid #ccc;
+    float: left;
+}
+article .all img{
+    width: 100%;
+    height: 5rem;
+}
+article .all .jingpin2{
+    width: 5rem;
+    float: right;
+}
+article .all .jingpin3{
+    width: 5rem;
+    float: left;
+    border-right: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+article .all .jingpin4{
+    width: 5rem;
+    float: right;
+    border-top: 1px solid #ccc;
+}
+article .article_bottom_b{
+    clear: both;
+    background: #eee;
+    font-size: 15px;
+    line-height: 1.7rem;
+    text-align: center;
+}
+article .peijian1 img{
+    width: 100%;
+    height: 5rem;
+}
+article .peijian1{
+    width: 5rem;
+    border-right: 1px solid #ccc;
+    float: left;
+}
+article .peijian2 img{
+    width: 100%;
+    height: 5rem;
+}
+article .peijian2{
+    width: 5rem;
+    float: right;
+}
+article .peijian3 img{
+    width: 100%;
+    height: 5rem;
+}
+article .peijian3{
+    width: 5rem;
+    float: left;
+    border-right: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+article .peijian4 img{
+    width: 100%;
+    height: 5rem;
+}
+article .peijian4{
+    width: 5rem;
+    float: right;
+    border-top: 1px solid #eee;
+}
+article .foot{
+    clear: both;
+    width: 10rem;
+    height: 1.7rem;
+    background: #000;
+}
+article .foot ul{
+    margin-left: 1.5rem;
+}
+article .foot ul li{
+    list-style: none;
+    float: left;
+    color: aliceblue;
+    line-height: 1.7rem;
+}
+article .foot ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}

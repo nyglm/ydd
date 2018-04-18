@@ -1,0 +1,11 @@
+header{
+    width: 10rem;
+    height: 1.5rem;
+    background: #000;
+}
+header .header_top{
+    color: aliceblue;
+    font-size: 28px;
+    line-height: 1.5rem;
+    text-align: center;
+}

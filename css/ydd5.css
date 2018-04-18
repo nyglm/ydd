@@ -1,0 +1,85 @@
+header{
+    width: 10rem;
+    height: 1.5rem;
+    background: #000;
+}
+header .header_top{
+    color: aliceblue;
+    font-size: 28px;
+    line-height: 1.5rem;
+    text-align: center;
+}
+/*aside*/
+aside{
+    width: 10rem;
+    height: 14.5rem;
+    background: #ccc;
+    opacity: 0.5;
+    padding-top: 3rem;
+}
+aside .aside_top{
+    width: 9rem;
+    height: 9rem;
+    background: #fff;
+    position: absolute;
+    top: 20%;
+    left: 0.5rem;
+}
+aside .aside_top input[type="text"]{
+    width: 7rem;
+    height: 1rem;
+    margin-left:1rem;
+    background: #fff;
+    margin-top: 1rem;
+    font-size: 15px;
+    padding-left: 10px;
+}
+aside .aside_top input[type="password"]{
+    width: 7rem;
+    height: 1rem;
+    margin-left: 1rem;
+    margin-top: 0.7rem;
+    font-size: 15px;
+    padding-left: 10px;
+}
+aside .aside_top span{
+   color: #1b6d85;
+    margin-left: 6.5rem;
+    margin-top: 5rem;
+}
+aside .aside_top button[type="submit"]{
+    width: 7rem;
+    height: 1rem;
+    margin-left: 1rem;
+    margin-top: 0.7rem;
+    font-size: 15px;
+    padding-left: 10px;
+    background: dodgerblue;
+    color: white;
+    border: none;
+    letter-spacing: 10px;
+}
+aside .aside_top button[type="button"]{
+    width: 7rem;
+    height: 1rem;
+    margin-left: 1rem;
+    margin-top: 0.7rem;
+    font-size: 15px;
+    padding-left: 10px;
+    border: none;
+}
+.foot{
+    clear: both;
+    width: 10rem;
+    height: 1.7rem;
+    background: #000;
+}
+.foot ul{
+    margin-left: 2rem;
+}
+.foot ul li{
+    list-style: none;
+    float: left;
+    color: aliceblue;
+    line-height: 1.7rem;
+}

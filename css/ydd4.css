@@ -1,0 +1,50 @@
+/*header*/
+header .navbar-header{
+    background: #000;
+}
+header .navbar-nav a{
+    text-align: center;
+}
+/*lunbo*/
+.lunbo .swiper-container img{
+    margin-top: 1rem;
+    width: 100%;
+    height:6rem;
+}
+/*banner*/
+#banner img{
+	width: 100%;
+	height: 6rem;
+}
+/*aside*/
+aside{
+	width: 10rem;
+	height: 2rem;
+	background: #ccc;
+	line-height: 2rem;
+	font-size: 20px;
+}
+aside p{
+	margin-left: 3rem;
+}
+/*foot*/
+.foot{
+    clear: both;
+    width: 10rem;
+    height: 1.7rem;
+    background: #000;
+    margin-top: -5rem;
+}
+.foot ul{
+    margin-left: 1.5rem;
+}
+.foot ul li{
+    list-style: none;
+    float: left;
+    color: aliceblue;
+    line-height: 1.7rem;
+}
+.foot ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
